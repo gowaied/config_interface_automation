@@ -86,5 +86,5 @@ for device in range(no_of_devices):
         except NetMikoTimeoutException:
             print(f'Error: Timeout while connecting to device {ip}! This device might be unreachable.')  
     
-print('All devices have been configured successfully!')
+print('The Process has been done!')
         
